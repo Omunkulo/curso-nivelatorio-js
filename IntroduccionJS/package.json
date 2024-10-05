@@ -1,0 +1,12 @@
+{
+  "name": "introduccionjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [],
+  "author": "Emmanuel R",
+  "license": "ISC"
+}
